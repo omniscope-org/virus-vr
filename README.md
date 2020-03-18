@@ -2,5 +2,5 @@
 
 Git repository for SideQuest version of Virus VR game.
 
-More details:
+More information:
 https://www.omniscope.org/virus-vr
